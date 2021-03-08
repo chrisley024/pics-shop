@@ -1,3 +1,14 @@
+## Project Description
+A React app of an ecommerce web shop with photos
+One can select favorite photos and add photos to cart
+Click the Order button on the Checkout page which shows notification using the React toast
+For learning purpose
+
+## Tech Stack
+React, Bootstrap, Javascripts
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

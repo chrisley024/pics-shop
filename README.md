@@ -5,7 +5,7 @@ Click the Order button on the Checkout page which shows notification using the R
 For learning purpose
 
 ## Tech Stack
-React, Bootstrap, Javascript
+React, Bootstrap, Javascript, CSS, HTML
 
 
 

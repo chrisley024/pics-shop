@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/pics-shop/static/css/main.39e1bf3d.chunk.css",
+    "main.js": "/pics-shop/static/js/main.e5f392b3.chunk.js",
+    "main.js.map": "/pics-shop/static/js/main.e5f392b3.chunk.js.map",
+    "runtime-main.js": "/pics-shop/static/js/runtime-main.9e2ac92b.js",
+    "runtime-main.js.map": "/pics-shop/static/js/runtime-main.9e2ac92b.js.map",
+    "static/css/2.5e2d32e7.chunk.css": "/pics-shop/static/css/2.5e2d32e7.chunk.css",
+    "static/js/2.b8553630.chunk.js": "/pics-shop/static/js/2.b8553630.chunk.js",
+    "static/js/2.b8553630.chunk.js.map": "/pics-shop/static/js/2.b8553630.chunk.js.map",
+    "static/js/3.cc5b85ea.chunk.js": "/pics-shop/static/js/3.cc5b85ea.chunk.js",
+    "static/js/3.cc5b85ea.chunk.js.map": "/pics-shop/static/js/3.cc5b85ea.chunk.js.map",
+    "index.html": "/pics-shop/index.html",
+    "static/css/2.5e2d32e7.chunk.css.map": "/pics-shop/static/css/2.5e2d32e7.chunk.css.map",
+    "static/css/main.39e1bf3d.chunk.css.map": "/pics-shop/static/css/main.39e1bf3d.chunk.css.map",
+    "static/js/2.b8553630.chunk.js.LICENSE.txt": "/pics-shop/static/js/2.b8553630.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.css": "/pics-shop/static/media/fontawesome-webfont.f691f37e.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9e2ac92b.js",
+    "static/css/2.5e2d32e7.chunk.css",
+    "static/js/2.b8553630.chunk.js",
+    "static/css/main.39e1bf3d.chunk.css",
+    "static/js/main.e5f392b3.chunk.js"
+  ]
+}

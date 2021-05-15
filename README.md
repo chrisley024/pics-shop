@@ -2,7 +2,7 @@
 
 Web link: https://pics-shop.netlify.app/
 
-A React app of an ecommerce web shop with photos.
+A React app of an ecommerce web shop with photos from API.
 One can select favorite photos and add photos to cart.
 Click the Order button on the Checkout page which shows notification using the React toast.
 For learning purpose

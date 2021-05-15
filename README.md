@@ -1,6 +1,6 @@
 ## Project Description
 
-Web link: https://60a03c68fedaca8028d7a644--sharp-jackson-f034a7.netlify.app/
+Web link: https://pics-shop.netlify.app/
 
 A React app of an ecommerce web shop with photos.
 One can select favorite photos and add photos to cart.
